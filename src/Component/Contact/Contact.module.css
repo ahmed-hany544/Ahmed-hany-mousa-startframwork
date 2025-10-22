@@ -1,0 +1,25 @@
+.co{
+    font-size: 40px;
+    font-weight: 700;
+    color:#2C3E50;
+    margin-top: 20px;
+}
+.pc{
+    width:78px ;
+    height:4px ;
+    background-color:#2C3E50 ;
+    
+}
+.ii{
+    color:#2C3E50 ;
+}
+.mk{
+    width: 57%;
+}
+.hj{
+    height: 65px;
+}
+.bbtn{
+    background-color:#1ABC9C ;
+border-radius: 6px;
+}

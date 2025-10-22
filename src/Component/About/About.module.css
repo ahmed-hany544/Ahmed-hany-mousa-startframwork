@@ -1,0 +1,24 @@
+.his{
+    background-color:#1ABC9C ;
+    height: 83vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.she{
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+    margin-top: 20px;
+}
+
+.ooo{
+    width:78px ;
+    height:4px ;
+    background-color: white;
+}
+.fg{
+    width: 87%;
+}
+.gg{width: 94%;}
